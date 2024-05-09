@@ -224,7 +224,7 @@ func LegendLeft(c *Chart, userDefaults ...Style) Renderable {
 			FontColor:   DefaultTextColor,
 			FontSize:    8.0,
 			StrokeColor: DefaultAxisColor,
-			StrokeWidth: DefaultAxisLineWidth,
+			StrokeWidth: 0, //DefaultAxisLineWidth,
 		}
 
 		var legendStyle Style
