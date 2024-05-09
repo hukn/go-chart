@@ -3,7 +3,7 @@ package chart
 import (
 	"testing"
 
-	"github.com/hukn/go-chart/v2/testutil"
+	"github.com/wcharczuk/go-chart/v2/testutil"
 )
 
 func TestTextWrapWord(t *testing.T) {
