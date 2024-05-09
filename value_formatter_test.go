@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/wcharczuk/go-chart/v2/testutil"
+	"github.com/hukn/go-chart/v2/testutil"
 )
 
 func TestTimeValueFormatterWithFormat(t *testing.T) {

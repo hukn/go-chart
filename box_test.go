@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/wcharczuk/go-chart/v2/testutil"
+	"github.com/hukn/go-chart/v2/testutil"
 )
 
 func TestBoxClone(t *testing.T) {
